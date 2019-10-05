@@ -1,0 +1,11 @@
+{
+  "name": "matic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mvasigh/matic.git",
+  "author": "Mehdi Vasigh <mehdi.vasigh@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "applescript": "^1.0.0"
+  }
+}
