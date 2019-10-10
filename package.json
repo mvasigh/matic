@@ -5,7 +5,16 @@
   "repository": "https://github.com/mvasigh/matic.git",
   "author": "Mehdi Vasigh <mehdi.vasigh@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "jest --watch"
+  },
   "dependencies": {
     "applescript": "^1.0.0"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "nodemon": "^1.19.3"
   }
 }
